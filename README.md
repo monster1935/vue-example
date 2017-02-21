@@ -8,7 +8,7 @@ Github作为目前优秀的同性交友平台，其上维护了众多优秀的�
 Github给用户提供了运行静态页面的地址，如何展示个人项目的静态页面？以下是创建项目主页的关键：
 
 - gh-pages分支
-- 访问地址：[github用户名].github.io/[项目仓库名]，如：[monster1935.github.io/vue-example]()
+- 访问地址：[github用户名].github.io/[项目仓库名]，如：[https://monster1935.github.io/vue-example]()
 
 生成项目主页首先是将欲展示的静态页面推送的Github个人项目仓库的gh-pages分支下，然后通过上述的访问形式访问。
 
