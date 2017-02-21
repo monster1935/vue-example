@@ -67,7 +67,7 @@ git push
 
 2. 执行``` npm run build ```命令，构建代码，如下所示，项目文件结构中出现了dist文件夹
 3. 将dist目录下的所有文件夹推送至远程仓库的gh-pages分支，执行以下命令：
-```
+```bash
 # 强制添加dist文件夹，因为.gitignore文件中定义了忽略该文件
 git add -f dist
 
