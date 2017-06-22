@@ -25,7 +25,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'monster1935'
+      msg: 'Hello, monster1935'
     }
   }
 }
